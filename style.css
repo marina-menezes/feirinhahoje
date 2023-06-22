@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif !important;
+}
+
+.background {
+    background-color: #e6f0ff;
+    height: 30vh;
+}
+
+.font-logo {
+    font-weight: 600 !important;
+    color: #004680 !important;
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+}
+
+.search-form {
+    display: flex;
+    flex-wrap: nowrap;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    max-width: 600px;
+}
+
+.custom-title {
+    margin-left: 0.5em;
+    font-size: 18px;
+    font-weight: 600 !important;
+    color: rgb(33, 33, 33);
+}
+
+.custom-font {
+    font-size: 10px;
+    background-color: rgb(244, 244, 244);
+    padding: 4%;
+    font-weight: 500;
+}
+
+.footer {
+    background-color: #e6f0ff;
+    margin-top: 5%;
+    height: 5vh;
+}
+
+.custom-link {
+    font-weight: 600 !important;
+    padding: 0.7em 1.5em !important;
+}
+
+.custom-margin {
+    margin-top: 8% !important;
+}
+
+.custom-color {
+    color: grey;
+}
+
+.custom-modal {
+    font-weight: 400 !important;
+    background-color: rgb(252, 252, 252) !important;
+    border: 1px solid grey;
+    color: rgb(30, 30, 30) !important;
+
+}
+
+.custom-modal:hover {
+    background-color: rgb(228, 228, 228) !important;
+}
+
+.custom-btn {
+    white-space: nowrap; /* Faz com que o texto caiba em uma única linha */
+    margin-right: 10px; /* Adiciona espaçamento entre os botões */
+    font-size: 15px !important;
+  }
+
+
+  .full-height {
+    min-height: 60vh;
+    display: flex;
+    align-items: center;
+  }
+
+  
