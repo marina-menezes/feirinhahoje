@@ -9,8 +9,8 @@ body {
 }
 
 .background {
-    background-color: #e6f0ff;
-    height: 30vh;
+    /* background-color: #e6f0ff; */
+    height: 10vh;
 }
 
 .font-logo {
@@ -20,11 +20,12 @@ body {
     font-size: 13px;
 }
 
+
 .search-form {
     display: flex;
     flex-wrap: nowrap;
     position: absolute;
-    top: 80%;
+    /* top: 80%; */
     left: 50%;
     transform: translate(-50%, -50%);
     width: 100%;
@@ -46,7 +47,7 @@ body {
 }
 
 .footer {
-    background-color: #e6f0ff;
+    background-color: #fff;
     margin-top: 5%;
     height: 5vh;
 }
@@ -57,11 +58,15 @@ body {
 }
 
 .custom-margin {
-    margin-top: 8% !important;
+    margin-top: 5% !important;
 }
 
 .custom-color {
     color: grey;
+}
+
+.custom-weight {
+    font-weight: 500;
 }
 
 .custom-modal {

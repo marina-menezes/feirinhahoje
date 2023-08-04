@@ -1124,20 +1124,23 @@ const feiras = [
 let feirinhasList = document.getElementById('feirinhas-list');
 feiras.forEach(feira => {
     var newElem = `
-        <div class="container text-center mt-5 pb-5 border-bottom">
+        <div class="container mt-3 pb-3 border-bottom">
             <div class="row">
-                <div class="col bairro custom-color">
-                    ${feira['Bairro']}
+
+                <div class="col">
+                    <span class= "custom-weight bairro">${feira['Bairro']}</span>
+                    <br>                    
+                    <span class= "custom-color endereco">${feira['Endereço']}</span>
                 </div>
-                <div class="col endereco">
-                    ${feira['Endereço']}
-                </div>
-                <div class="col dia custom-color">
+
+                <div class="col dia custom-weight">
                     ${feira['Dia']}
                 </div>
-                <div class="col hora">
+
+                <div class="col hora custom-weight">
                     ${feira['Horário']}
                 </div>
+                
             </div>
         </div>`;
     
@@ -1164,5 +1167,3 @@ document.getElementById('search-input').addEventListener('input', function () {
       }
     }
   });
-
-  document.getElementById('search-input').focus();
