@@ -21,16 +21,29 @@ body {
 }
 
 
-.search-form {
+/* .search-form {
     display: flex;
     flex-wrap: nowrap;
     position: absolute;
-    /* top: 80%; */
+    /* top: 80%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 100%;
     max-width: 600px;
-}
+} */
+
+.custom-input {
+    margin-left: -10px; /* Ajuste o valor conforme necessário */
+  }
+
+.custom-icon {
+    margin-right: -15px; /* Ajuste o valor conforme necessário */
+  }
+
+.form-control:focus {
+    box-shadow: none !important;
+    border-color: #ced4da !important;
+  }
 
 .custom-title {
     margin-left: 0.5em;
