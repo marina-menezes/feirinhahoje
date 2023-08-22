@@ -1128,16 +1128,16 @@ feiras.forEach(feira => {
             <div class="row">
 
                 <div class="col">
-                    <span class= "custom-weight bairro">${feira['Bairro']}</span>
+                    <span class="bairro text-body-secondary">${feira['Bairro']}</span>
                     <br>                    
-                    <span class= "custom-color endereco">${feira['Endereço']}</span>
+                    <span class="endereco text-body-tertiary">${feira['Endereço']}</span>
                 </div>
 
-                <div class="col dia custom-weight">
+                <div class="col dia text-body-secondary">
                     ${feira['Dia']}
                 </div>
 
-                <div class="col hora custom-weight">
+                <div class="col hora text-body-secondary">
                     ${feira['Horário']}
                 </div>
                 
