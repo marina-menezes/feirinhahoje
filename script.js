@@ -1123,6 +1123,9 @@ const feiras = [
 
 let feirinhasList = document.getElementById('feirinhas-list');
 feiras.forEach(feira => {
+
+    const diaSemana = feira['Dia'].replace('Feira', 'feira');
+
     var newElem = `
         <div class="container mt-3 pb-3 border-bottom">
             <div class="row">
@@ -1134,7 +1137,7 @@ feiras.forEach(feira => {
                 </div>
 
                 <div class="col dia text-body-secondary">
-                    ${feira['Dia']}
+                    ${diaSemana}
                 </div>
 
                 <div class="col hora text-body-secondary">
@@ -1145,6 +1148,7 @@ feiras.forEach(feira => {
         </div>`;
     
     feirinhasList.innerHTML += newElem;
+    
 });
 
 // Manipular evento de digitação na caixa de busca
