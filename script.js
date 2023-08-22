@@ -1131,9 +1131,8 @@ feiras.forEach(feira => {
             <div class="row">
 
                 <div class="col">
-                    <span class="bairro text-body-secondary">${feira['Bairro']}</span>
-                    <br>                    
-                    <span class="endereco text-body-tertiary">${feira['Endereço']}</span>
+                    <div class="bairro text-body-secondary">${feira['Bairro']}</div>                    
+                    <div class="endereco text-body-tertiary">${feira['Endereço']}</div>
                 </div>
 
                 <div class="col dia text-body-secondary">
