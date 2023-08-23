@@ -1126,12 +1126,16 @@ feiras.forEach(feira => {
 
     const diaSemana = feira['Dia'].replace('Feira', 'feira');
 
+    const googleMapsLink = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(feira['Bairro'] + ', ' + feira['Endereço'])}`;
+
     var newElem = `
         <div class="container mt-3 pb-3 border-bottom">
             <div class="row">
 
                 <div class="col">
-                    <div class="bairro text-body-secondary">${feira['Bairro']}</div>                    
+                    <div class="bairro text-body-secondary">
+                        <a href="${googleMapsLink}" target="_blank">${feira['Bairro']}</a>
+                    </div>                     
                     <div class="endereco text-body-tertiary">${feira['Endereço']}</div>
                 </div>
 
