@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@300;400;500;600&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -16,8 +18,8 @@ body {
 .font-logo {
   font-weight: 600 !important;
   color: #004680 !important;
-  font-family: "Inter", sans-serif;
-  font-size: 13px;
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
 }
 
 /* CAIXA DE BUSCA */
@@ -31,7 +33,7 @@ body {
 
 .custom-input::placeholder {
   margin-left: -30px;
-  font-size: 15px;
+  font-size: 14px;
 }
 
 .form-control:focus {
@@ -96,4 +98,29 @@ body {
   min-height: 60vh;
   display: flex;
   align-items: center;
+}
+
+/* MARGIN LINKS DAS CIDADES */
+
+.custom-links {
+  margin-left: 0.5em;
+  font-family: 'Figtree', sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 300 !important;
+}
+
+/* LINHA DIVISÓRIA */
+.custom-line {
+  margin-top: 0.1em;
+  color:rgb(122, 122, 122);
+}
+
+/* FONTE TIPOS DE FEIRAS */
+
+.custom-market {
+  font-family: 'Figtree', sans-serif;
+  font-weight: 300 !important;
+  font-size: 14px !important;
+  line-height: 15px !important;
 }
