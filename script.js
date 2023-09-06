@@ -7,7 +7,7 @@ const feiras = [
         "RA": "01-Portuária"
     },
     {
-        "Endereço": "Rua Gal. Gurjão, Gal. Gurjão",
+        "Endereço": "Rua Gal. Gurjão",
         "Bairro": "Caju",
         "Dia": "Domingo",
         "Horário": "07:00 às 13:00",
@@ -21,56 +21,56 @@ const feiras = [
         "RA": "02-Centro"
     },
     {
-        "Endereço": "Rua Conde Lages, Conde Lages",
+        "Endereço": "Rua Conde Lages",
         "Bairro": "Centro",
         "Dia": "Quinta-Feira",
         "Horário": "07:00 às 13:00",
         "RA": "02-Centro"
     },
     {
-        "Endereço": "Rua Emilia Guimaraes, Emilia Guimaraes",
+        "Endereço": "Rua Emilia Guimaraes",
         "Bairro": "Catumbi",
         "Dia": "Segunda-Feira",
         "Horário": "07:00 às 13:00",
         "RA": "03-Rio Comprido"
     },
     {
-        "Endereço": "Rua Barão de Sertorio, Barão de Sertorio",
+        "Endereço": "Rua Barão de Sertorio",
         "Bairro": "Rio Comprido",
         "Dia": "Quarta-Feira",
         "Horário": "07:00 às 13:00",
         "RA": "03-Rio Comprido"
     },
     {
-        "Endereço": "Rua Costa Ferraz, Costa Ferraz",
+        "Endereço": "Rua Costa Ferraz",
         "Bairro": "Rio Comprido",
         "Dia": "Sábado",
         "Horário": "07:00 às 13:00",
         "RA": "03-Rio Comprido"
     },
     {
-        "Endereço": "Praça Cel. Castelo Branco, Cel. Castelo Branco",
+        "Endereço": "Praça Cel. Castelo Branco",
         "Bairro": "Cidade Nova",
         "Dia": "Quinta-Feira",
         "Horário": "07:00 às 13:00",
         "RA": "03-Rio Comprido"
     },
     {
-        "Endereço": "Rua Sampaio Ferraz, Sampaio Ferraz",
+        "Endereço": "Rua Sampaio Ferraz",
         "Bairro": "Estácio",
         "Dia": "Quarta-Feira",
         "Horário": "07:00 às 13:00",
         "RA": "03-Rio Comprido"
     },
     {
-        "Endereço": "Rua Gal Argolo, Gal Argolo",
+        "Endereço": "Rua Gal Argolo",
         "Bairro": "São Cristóvão",
         "Dia": "Quinta-Feira",
         "Horário": "07:00 às 13:00",
         "RA": "07-São Cristóvão"
     },
     {
-        "Endereço": "Rua Gal Bruce, Gal Bruce",
+        "Endereço": "Rua Gal Bruce",
         "Bairro": "São Cristóvão",
         "Dia": "Domingo",
         "Horário": "07:00 às 13:00",
