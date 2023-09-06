@@ -1133,7 +1133,7 @@ feiras.forEach(feira => {
             <div class="row">
 
                 <div class="col">
-                    <div class="bairro">
+                    <div class="custom-weight bairro">
                         <a class="text-body-secondary" href="${googleMapsLink}" target="_blank">${feira['Bairro']}</a>
                     </div>                     
                     <div class="endereco text-body-tertiary">${feira['Endereço']}</div>

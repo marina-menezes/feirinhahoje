@@ -72,8 +72,8 @@ body {
 }
 
 
-.custom-weight {
-  font-weight: 500;
+.custom-weight.bairro:before {
+  content: "📍";
 }
 
 /* MODAL */
