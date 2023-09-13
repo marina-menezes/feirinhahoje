@@ -1,8 +1,6 @@
 let feirinhasList = document.getElementById('feirinhas-list');
 feiras.forEach(feira => {
 
-    const diaSemana = feira['Dia'].replace('Feira', 'feira');
-
     const googleMapsLink = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(feira['Bairro'] + ', ' + feira['Endereço'])}`;
 
     var newElem = `
@@ -17,7 +15,7 @@ feiras.forEach(feira => {
                 </div>
 
                 <div class="col dia text-body-secondary">
-                    ${diaSemana}
+                    ${feira['Dia']}
                 </div>
 
                 <div class="col hora text-body-secondary">

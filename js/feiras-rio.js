@@ -2,7 +2,7 @@ const feiras = [
     {
         "Endereço": "Rua do Livramento",
         "Bairro": "Saúde",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "01-Portuária"
     },
@@ -23,21 +23,21 @@ const feiras = [
     {
         "Endereço": "Rua Conde Lages",
         "Bairro": "Centro",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "02-Centro"
     },
     {
         "Endereço": "Rua Emilia Guimaraes",
         "Bairro": "Catumbi",
-        "Dia": "Segunda-Feira",
+        "Dia": "Segunda-feira",
         "Horário": "07:00 às 13:00",
         "RA": "03-Rio Comprido"
     },
     {
         "Endereço": "Rua Barão de Sertorio",
         "Bairro": "Rio Comprido",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "03-Rio Comprido"
     },
@@ -51,21 +51,21 @@ const feiras = [
     {
         "Endereço": "Praça Cel. Castelo Branco",
         "Bairro": "Cidade Nova",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "03-Rio Comprido"
     },
     {
         "Endereço": "Rua Sampaio Ferraz",
         "Bairro": "Estácio",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "03-Rio Comprido"
     },
     {
         "Endereço": "Rua Gal Argolo",
         "Bairro": "São Cristóvão",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "07-São Cristóvão"
     },
@@ -79,14 +79,14 @@ const feiras = [
     {
         "Endereço": "Rua Terezina",
         "Bairro": "Santa Teresa",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "23-Santa Teresa"
     },
     {
         "Endereço": "Rua Arno Konder / Rua Gov. Irineu Bornhausen",
         "Bairro": "Flamengo",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 13:00",
         "RA": "04-Botafogo"
     },
@@ -107,7 +107,7 @@ const feiras = [
     {
         "Endereço": "Viaduto Jardel Filho",
         "Bairro": "Laranjeiras",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "04-Botafogo"
     },
@@ -121,35 +121,35 @@ const feiras = [
     {
         "Endereço": "Rua Vicente de Souza",
         "Bairro": "Botafogo",
-        "Dia": "Segunda-Feira",
+        "Dia": "Segunda-feira",
         "Horário": "07:00 às 13:00",
         "RA": "04-Botafogo"
     },
     {
         "Endereço": "Praça Nicaragua",
         "Bairro": "Botafogo",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "04-Botafogo"
     },
     {
         "Endereço": "Rua Rodrigo de Brito",
         "Bairro": "Botafogo",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "04-Botafogo"
     },
     {
         "Endereço": "Rua Barão de Macaubas",
         "Bairro": "Botafogo",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 13:00",
         "RA": "04-Botafogo"
     },
     {
         "Endereço": "Rua Maria Eugenia",
         "Bairro": "Humaitá",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "04-Botafogo"
     },
@@ -163,7 +163,7 @@ const feiras = [
     {
         "Endereço": "PRC Almte Julio de Noronha",
         "Bairro": "Leme",
-        "Dia": "Segunda-Feira",
+        "Dia": "Segunda-feira",
         "Horário": "07:00 às 13:00",
         "RA": "05-Copacabana"
     },
@@ -177,42 +177,42 @@ const feiras = [
     {
         "Endereço": "Rua Ronald de Carvalho",
         "Bairro": "Copacabana",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "05-Copacabana"
     },
     {
         "Endereço": "Praça Edmundo Bittencourt",
         "Bairro": "Copacabana",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "05-Copacabana"
     },
     {
         "Endereço": "Praça Nossa Senhora da Paz",
         "Bairro": "Ipanema",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "06-Lagoa"
     },
     {
         "Endereço": "Avenida E Pitácio Pessoa, entre Visconde de Pirajá e Nascimento Silva",
         "Bairro": "Ipanema",
-        "Dia": "Segunda-Feira",
+        "Dia": "Segunda-feira",
         "Horário": "07:00 às 13:00",
         "RA": "06-Lagoa"
     },
     {
         "Endereço": "Praça Gal Osorio",
         "Bairro": "Ipanema",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 13:00",
         "RA": "06-Lagoa"
     },
     {
         "Endereço": "Praça Nossa Senhora Auxiliadora",
         "Bairro": "Leblon",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "06-Lagoa"
     },
@@ -233,7 +233,7 @@ const feiras = [
     {
         "Endereço": "Praça Santos Dumont",
         "Bairro": "Gávea",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "06-Lagoa"
     },
@@ -247,49 +247,49 @@ const feiras = [
     {
         "Endereço": "Rua Garibaldi",
         "Bairro": "Tijuca",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "08-Tijuca"
     },
     {
         "Endereço": "Rua Alzira Brandão",
         "Bairro": "Tijuca",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "08-Tijuca"
     },
     {
         "Endereço": "Rua Aguiar",
         "Bairro": "Tijuca",
-        "Dia": "Segunda-Feira",
+        "Dia": "Segunda-feira",
         "Horário": "07:00 às 13:00",
         "RA": "08-Tijuca"
     },
     {
         "Endereço": "Rua Gabriela Prado Maia",
         "Bairro": "Tijuca",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 13:00",
         "RA": "08-Tijuca"
     },
     {
         "Endereço": "Praça Prof Pinheiro Guimarães",
         "Bairro": "Tijuca",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 13:00",
         "RA": "08-Tijuca"
     },
     {
         "Endereço": "Rua Visconde de Figueiredo",
         "Bairro": "Tijuca",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "08-Tijuca"
     },
     {
         "Endereço": "Rua Moraes e Silva",
         "Bairro": "Maracanã",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "09-Vila Isabel"
     },
@@ -303,14 +303,14 @@ const feiras = [
     {
         "Endereço": "Rua Jorge Rudge",
         "Bairro": "Vila Isabel",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 13:00",
         "RA": "09-Vila Isabel"
     },
     {
         "Endereço": "Rua Mendes Tavares",
         "Bairro": "Vila Isabel",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "09-Vila Isabel"
     },
@@ -324,7 +324,7 @@ const feiras = [
     {
         "Endereço": "Rua Silva Teles",
         "Bairro": "Andaraí",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "09-Vila Isabel"
     },
@@ -338,28 +338,28 @@ const feiras = [
     {
         "Endereço": "Rua Mearim",
         "Bairro": "Grajaú",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 13:00",
         "RA": "09-Vila Isabel"
     },
     {
         "Endereço": "Avenida Júlio Furtado",
         "Bairro": "Grajaú",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "09-Vila Isabel"
     },
     {
         "Endereço": "Rua Mal Foch",
         "Bairro": "Bonsucesso",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 14:30",
         "RA": "10-Ramos"
     },
     {
         "Endereço": "Rua Senador Mourão Vieira",
         "Bairro": "Ramos",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "10-Ramos"
     },
@@ -373,14 +373,14 @@ const feiras = [
     {
         "Endereço": "Rua Antônio Rego",
         "Bairro": "Olaria",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "10-Ramos"
     },
     {
         "Endereço": "Rua Firmino Gameleira",
         "Bairro": "Olaria",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "10-Ramos"
     },
@@ -394,7 +394,7 @@ const feiras = [
     {
         "Endereço": "Rua Gal Silveira Sobrinho",
         "Bairro": "Penha",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "11-Penha"
     },
@@ -408,14 +408,14 @@ const feiras = [
     {
         "Endereço": "Rua Jacuí",
         "Bairro": "Penha",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "11-Penha"
     },
     {
         "Endereço": "Rua José Rucas",
         "Bairro": "Penha",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "11-Penha"
     },
@@ -436,14 +436,14 @@ const feiras = [
     {
         "Endereço": "Rua Franz Liszt",
         "Bairro": "Jardim América",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 14:30",
         "RA": "31-Vigário Geral"
     },
     {
         "Endereço": "Rua Prof Boscoli",
         "Bairro": "Maria da Graça",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 14:30",
         "RA": "12-Inhaúma"
     },
@@ -485,63 +485,63 @@ const feiras = [
     {
         "Endereço": "Rua Vitor Meireles",
         "Bairro": "Riachuelo",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "13-Méier"
     },
     {
         "Endereço": "Rua Doutor Manoel Cotrim",
         "Bairro": "Riachuelo",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 13:00",
         "RA": "13-Méier"
     },
     {
         "Endereço": "Rua Manoel Miranda",
         "Bairro": "Engenho Novo",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "13-Méier"
     },
     {
         "Endereço": "Rua Grão Para",
         "Bairro": "Engenho Novo",
-        "Dia": "Segunda-Feira",
+        "Dia": "Segunda-feira",
         "Horário": "07:00 às 13:00",
         "RA": "13-Méier"
     },
     {
         "Endereço": "Rua Joaquim Meier",
         "Bairro": "Lins de Vasconcelos",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "13-Méier"
     },
     {
         "Endereço": "Rua Galdino Pimentel",
         "Bairro": "Méier",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 13:00",
         "RA": "13-Méier"
     },
     {
         "Endereço": "Rua Vaz de Caminha",
         "Bairro": "Méier",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "13-Méier"
     },
     {
         "Endereço": "Rua Salvador Pires",
         "Bairro": "Méier",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "13-Méier"
     },
     {
         "Endereço": "Rua Silva Rabelo",
         "Bairro": "Méier",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "13-Méier"
     },
@@ -555,7 +555,7 @@ const feiras = [
     {
         "Endereço": "Rua Odorico Mendes",
         "Bairro": "Cachambi",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 13:00",
         "RA": "13-Méier"
     },
@@ -569,14 +569,14 @@ const feiras = [
     {
         "Endereço": "Rua Gustavo Riedel",
         "Bairro": "Engenho de Dentro",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "13-Méier"
     },
     {
         "Endereço": "Rua Catulo Cearence",
         "Bairro": "Engenho de Dentro",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 13:00",
         "RA": "13-Méier"
     },
@@ -590,14 +590,14 @@ const feiras = [
     {
         "Endereço": "Rua Antônio Vargas",
         "Bairro": "Piedade",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "13-Méier"
     },
     {
         "Endereço": "Rua Caminho do Mateus",
         "Bairro": "Piedade",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 13:00",
         "RA": "13-Méier"
     },
@@ -611,7 +611,7 @@ const feiras = [
     {
         "Endereço": "Rua Casemiro de Abreu",
         "Bairro": "Pilares",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "13-Méier"
     },
@@ -625,14 +625,14 @@ const feiras = [
     {
         "Endereço": "Rua Cambuci do Vale",
         "Bairro": "Vicente de Carvalho",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "14-Irajá"
     },
     {
         "Endereço": "Rua Floriania",
         "Bairro": "Vista Alegre",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "14-Irajá"
     },
@@ -653,35 +653,35 @@ const feiras = [
     {
         "Endereço": "Rua José Sombra",
         "Bairro": "Irajá",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "14-Irajá"
     },
     {
         "Endereço": "Avenida Tenente Rebelo",
         "Bairro": "Irajá",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "14-Irajá"
     },
     {
         "Endereço": "Rua Lopes Ferreira",
         "Bairro": "Irajá",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "14-Irajá"
     },
     {
         "Endereço": "Rua Ana Teles",
         "Bairro": "Campinho",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 14:30",
         "RA": "15-Madureira"
     },
     {
         "Endereço": "Rua Eufrásio Correa",
         "Bairro": "Quintino Bocaiuva",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "15-Madureira"
     },
@@ -695,21 +695,21 @@ const feiras = [
     {
         "Endereço": "Rua Valério",
         "Bairro": "Engenheiro Leal",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "15-Madureira"
     },
     {
         "Endereço": "Rua Caetano da Silva",
         "Bairro": "Cascadura",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "15-Madureira"
     },
     {
         "Endereço": "Ruaenrique Braga",
         "Bairro": "Madureira",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "15-Madureira"
     },
@@ -723,7 +723,7 @@ const feiras = [
     {
         "Endereço": "Rua Oliveira Figueiredo",
         "Bairro": "Vaz Lobo",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 14:30",
         "RA": "15-Madureira"
     },
@@ -737,7 +737,7 @@ const feiras = [
     {
         "Endereço": "Rua Rubis",
         "Bairro": "Rocha Miranda",
-        "Dia": "Segunda-Feira",
+        "Dia": "Segunda-feira",
         "Horário": "07:00 às 14:30",
         "RA": "15-Madureira"
     },
@@ -751,35 +751,35 @@ const feiras = [
     {
         "Endereço": "Rua Adelaide Badajos",
         "Bairro": "Oswaldo Cruz",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "15-Madureira"
     },
     {
         "Endereço": "Rua Teresa Santos",
         "Bairro": "Bento Ribeiro",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "15-Madureira"
     },
     {
         "Endereço": "Rua Óbidos",
         "Bairro": "Bento Ribeiro",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 14:30",
         "RA": "15-Madureira"
     },
     {
         "Endereço": "Rua Sapopemba",
         "Bairro": "Bento Ribeiro",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "15-Madureira"
     },
     {
         "Endereço": "Rua Jorge Schmidt",
         "Bairro": "Marechalermes",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "15-Madureira"
     },
@@ -800,28 +800,28 @@ const feiras = [
     {
         "Endereço": "Rua Arujá",
         "Bairro": "Freguesia(Ilha)",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "20-Ilha do Governador"
     },
     {
         "Endereço": "Avenida Francisco Alves",
         "Bairro": "Jardim Guanabara",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "20-Ilha do Governador"
     },
     {
         "Endereço": "Rua Prof.ilarião da Rocha",
         "Bairro": "Tauá",
-        "Dia": "Segunda-Feira",
+        "Dia": "Segunda-feira",
         "Horário": "07:00 às 13:00",
         "RA": "20-Ilha do Governador"
     },
     {
         "Endereço": "Avenida Carlos Meziano",
         "Bairro": "Ilha do Governador",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "20-Ilha do Governador"
     },
@@ -835,14 +835,14 @@ const feiras = [
     {
         "Endereço": "Rua Loasa",
         "Bairro": "Guadalupe",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "22-Anchieta"
     },
     {
         "Endereço": "Rua Eneas Martins",
         "Bairro": "Guadalupe",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "22-Anchieta"
     },
@@ -863,14 +863,14 @@ const feiras = [
     {
         "Endereço": "Rua Prof. Virginia Cidade",
         "Bairro": "Coelho Neto",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 14:30",
         "RA": "25-Pavuna"
     },
     {
         "Endereço": "Rua Cel. Moreira Cesar",
         "Bairro": "Costa Barros",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "25-Pavuna"
     },
@@ -884,14 +884,14 @@ const feiras = [
     {
         "Endereço": "Rua Gal. Olívio Uzêda",
         "Bairro": "Jacarepaguá",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 14:30",
         "RA": "16-Jacarépaguá"
     },
     {
         "Endereço": "Rua Vossio Brigido, Gal.",
         "Bairro": "Jacarepaguá",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "16-Jacarépaguá"
     },
@@ -919,35 +919,35 @@ const feiras = [
     {
         "Endereço": "Rua Moisés",
         "Bairro": "Cidade de Deus",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "34-Cidade de Deus"
     },
     {
         "Endereço": "Rua Araguaia",
         "Bairro": "Freguesia(Jacarepaguá)",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 14:30",
         "RA": "16-Jacarépaguá"
     },
     {
         "Endereço": "Rua Ariapo",
         "Bairro": "Taquara",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "16-Jacarépaguá"
     },
     {
         "Endereço": "Rua José Perigault",
         "Bairro": "Taquara",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "16-Jacarépaguá"
     },
     {
         "Endereço": "Ruas Alexandre Ramos e Coronel Tedim",
         "Bairro": "Tanque",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "16-Jacarépaguá"
     },
@@ -961,7 +961,7 @@ const feiras = [
     {
         "Endereço": "Rua das Margaridas",
         "Bairro": "Vila Valqueire",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "16-Jacarépaguá"
     },
@@ -982,35 +982,35 @@ const feiras = [
     {
         "Endereço": "Praça São Perpétuo",
         "Bairro": "Barra da Tijuca",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 13:00",
         "RA": "24-Barra da Tijuca"
     },
     {
         "Endereço": "Rua Olímpio de Castro",
         "Bairro": "Campo dos Afonsos",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "33-Realengo"
     },
     {
         "Endereço": "Rua Abrantes",
         "Bairro": "Magalhães Bastos",
-        "Dia": "Sexta-Feira",
+        "Dia": "Sexta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "33-Realengo"
     },
     {
         "Endereço": "Rua São Caetano",
         "Bairro": "Magalhães Bastos",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 14:30",
         "RA": "33-Realengo"
     },
     {
         "Endereço": "Rua Magoari",
         "Bairro": "Realengo",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "33-Realengo"
     },
@@ -1059,7 +1059,7 @@ const feiras = [
     {
         "Endereço": "Rua Mal Marciano",
         "Bairro": "Bangu",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "17-Bangu"
     },
@@ -1073,7 +1073,7 @@ const feiras = [
     {
         "Endereço": "Rua Urucum",
         "Bairro": "Bangu",
-        "Dia": "Quinta-Feira",
+        "Dia": "Quinta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "17-Bangu"
     },
@@ -1087,7 +1087,7 @@ const feiras = [
     {
         "Endereço": "Rua Campo Maior / Avenida Mariana",
         "Bairro": "Campo Grande",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 14:30",
         "RA": "18-Campo Grande"
     },
@@ -1101,7 +1101,7 @@ const feiras = [
     {
         "Endereço": "Rua Campeiro-Mor",
         "Bairro": "Santa Cruz",
-        "Dia": "Terça-Feira",
+        "Dia": "Terça-feira",
         "Horário": "07:00 às 14:30",
         "RA": "19-Santa Cruz"
     },
@@ -1115,7 +1115,7 @@ const feiras = [
     {
         "Endereço": "Rua Roberto da Silveira/Parque União",
         "Bairro": "Maré",
-        "Dia": "Quarta-Feira",
+        "Dia": "Quarta-feira",
         "Horário": "07:00 às 14:30",
         "RA": "30-Complexo da Maré"
     }
