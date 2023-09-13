@@ -1,9 +1,10 @@
-let feirinhasList = document.getElementById('feirinhas-list');
+let feirinhasHTML = "";
+
+const feirinhasListElem = document.getElementById('feirinhas-list');
 feiras.forEach(feira => {
+    const googleMapsLink = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(feira['Endereço'] + ", " + feira['Bairro'])}`;
 
-    const googleMapsLink = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(feira['Bairro'] + ', ' + feira['Endereço'])}`;
-
-    var newElem = `
+    const newElem = `
         <div class="container mt-3 pb-3 border-bottom">
             <div class="row">
 
@@ -25,14 +26,15 @@ feiras.forEach(feira => {
             </div>
         </div>`;
     
-    feirinhasList.innerHTML += newElem;
-    
+    feirinhasHTML += newElem;
 });
+
+feirinhasListElem.innerHTML += feirinhasHTML;
 
 // Manipular evento de digitação na caixa de busca
 document.getElementById('search-input').addEventListener('input', function () {
     let searchTerm = this.value.toLowerCase();
-    let feiraElements = feirinhasList.getElementsByClassName('container');
+    let feiraElements = feirinhasListElem.getElementsByClassName('container');
   
     // Percorrer os elementos de feira e mostrar/esconder com base no termo de busca
     for (let i = 0; i < feiraElements.length; i++) {
