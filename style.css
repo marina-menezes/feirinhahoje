@@ -16,10 +16,23 @@ body {
 }
 
 .font-logo {
-  font-weight: 600 !important;
-  color: #004680 !important;
+  font-weight: 300 !important;
+  color: #000000 !important;
   font-family: 'Inter', sans-serif;
-  font-size: 14px;
+  font-size: 16px !important;
+}
+
+.separator {
+  width: 1px;
+  height: 32px;
+  background-color: #e5e5e5;
+}
+
+.link-font {
+  font-weight: 300 !important;
+  color: #000000 !important;
+  font-family: 'Inter', sans-serif;
+  font-size: 14px !important;
 }
 
 /* CAIXA DE BUSCA */
@@ -113,7 +126,7 @@ body {
 /* LINHA DIVISÓRIA */
 .custom-line {
   margin-top: 0.1em;
-  color:rgb(122, 122, 122);
+  color: rgb(122, 122, 122);
 }
 
 /* FONTE TIPOS DE FEIRAS */
