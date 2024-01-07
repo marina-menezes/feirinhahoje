@@ -137,3 +137,10 @@ body {
   font-size: 14px !important;
   line-height: 15px !important;
 }
+
+/* NAVBAR */
+
+.navbar-toggler:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
